@@ -12,4 +12,4 @@ async function loadEducation(country, code) {
   });
 }
 
-loadEducation("india", "IN");
+loadEducation("india", "IN";
